@@ -1,0 +1,5 @@
+# ignore ALL hidden files
+.vscode
+
+# ignore venv
+env

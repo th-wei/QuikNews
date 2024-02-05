@@ -1,0 +1,3 @@
+beautifulsoup
+undetected_chromedriver
+selenium
