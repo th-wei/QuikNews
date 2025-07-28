@@ -1,0 +1,124 @@
+Plus, a Panama ports problem | Monday, July 28, 2025 View in browser PRESENTED BY GOLDMAN SACHS INVESTMENT BANKING Axios Pro Rata By Dan Primack · Jul 28, 2025 Back in the home office after a couple w
+
+This sender is trusted.
+
+ sophospsmartbannerend 
+
+ Plus, a Panama ports problem | Monday, July 28, 2025
+
+View in browser
+
+PRESENTED BY GOLDMAN SACHS INVESTMENT BANKING
+
+Axios Pro Rata
+
+By Dan Primack · Jul 28, 2025 
+
+Back in the home office after a couple weeks at the beach. Big thanks to Axios Pro's Lucinda Shen for pinch-hitting while I was out. OK, here we go...
+
+ Top of the Morning 
+
+ Christine Hunsicker (left) leaves federal court after being indicted. Photo: Michael Nagle/Bloomberg via Getty Images
+
+My summer vacations vary on the calendar, but they always overlap with a giant development in a story we've spent months covering.
+
+I thought this one might be President Trump's executive order on private equity in retirement accounts, but he hasn't signed it yet.
+Instead, it was the long-awaited arrest of CaaStle co-founder and former CEO Christine Hunsicker.
+Flashback: CaaStle, a fashion-tech company that had raised over $500 million in venture capital funding, told investors in March that Hunsicker had spent years cooking the books and that federal investigations were underway.
+
+Last month it filed for bankruptcy protection.
+State of play: Both the Justice Department and SEC filed fraud charges against Hunsicker on July 18, and include a slew of new allegations.
+
+The SEC claims that Hunsicker began doctoring financial reports as early as 2018, even though CaaStle's March letter to investors only cited problems in fiscal 2022 and 2023.
+It also alleges that she repeatedly sold personal shares in the company under false pretense, and that she fabricated secondary share sales in order to raise primary capital for CaaStle.
+DOJ adds that it discovered a slew of damning Internet searches that corresponded with various financial shenanigans, including "faking an audit" and "bank fraud vs. wire fraud severity." And for the coup de grâce, a search apparently related to Frank founder Charlie Javice's scheme to defraud JPMorgan.
+In one case, an investor allegedly noticed problems with an "audited" financial document provided by Hunsicker. She dodged by claiming that she'd inadvertently sent a mock-up that she was using for an upcoming speech at Princeton University. Not only was there no speech, but she claimed it would be about ethics and entrepreneurship.
+The other side: Hunsicker plead not guilty.
+
+Her hasn't yet responded to my request for comment, but did tell the AP that prosecutors presented a "very distorted picture."
+The intrigue: What's missing in both complaints is any accountability for CaaStle's board of directors.
+
+They lay out how an investor alerted the board to problems in December, as we've previously reported, with Hunsicker copping to the misdeeds and the board launching an investigation.
+Then the complaints say that she was booted from the board, as but allowed to remain as CEO under the conditions that she neither fundraise for CaaStle nor sign contracts (at least the first of which she allegedly violated).
+Investors were never told of this arrangement, nor of the misstated financials and cap table, until months later. But the board (so far) has skated on these basic violations of fiduciary duty, nor is there any information about how it did (or didn't?) try to monitor Hunsicker's compliance with the prohibitions.
+And there's more: The SEC complaint claims that CaaStle's board during this entire period included Alphabet chair John Hennessy (albeit unnamed), even though CaaStle co-founder (and Princeton computer science professor) JP Singh has claimed Hennessy quietly resigned in December.
+
+It also acknowledges that Singh late last year sold $6 million in CaaStle stock to outside investors, in a deal organized by Hunsicker, but there's no indication that the government will seek to recover that cash.
+The bottom line: Better late than never, given that this is one of the largest VC-backed frauds in history, but it feels that a few more shoes should drop.
+
+ The BFD 
+
+ Illustration: Shoshana Gordon/Axios
+
+CK Hutchinson of Hong Kong today said that it plans to add a "major strategic" Chinese investor to its $22.8 billion ports deal with BlackRock, adding that an exclusive negotiating period between the two firms has expired.Why it's the BFD: This complicates a landmark agreement that would transfer control of 43 ports in 23 countries, including two in Panama that President Trump has threatened to retake by force.Zoom in: China called Hutchinson's initial deal a "betrayal," and today's announcement appears aimed at securing Beijing's approval.
+
+The company didn't provide many additional details, except to say talks are ongoing, but the FT reports that state-owned shipper Cosco is the unnamed investor.
+BlackRock's initial agreement was bifurcated between the Panama ports and all the rest, although the entire package is currently on hold. Don't be surprised if Cosco, or another PRC-tied investor, only buys into the non-Panama piece.
+Talks are ongoing, and it appears that Hutchinson was required to let the exclusive negotiating period expire in order to introduce a new investor. Even if a deal were announced shortly, it could take years to close.
+The bottom line: It wasn't hard to foresee that this deal would hit some major hurdles.
+
+ Venture Capital Deals 
+
+• Vanta, an SF-based enterprise compliance management startup, raised $150m in Series D funding at a $4.15b valuation. Wellington led, joined by Atlassian Ventures, CrowdStrike Ventures, Goldman Sachs, Sequoia Capital, and JPMorgan. axios.link/45oih1K• HeroDevs, a Sandy, Utah-based provider of OSS security tools, raised $125m led by PSG. axios.link/46wxWgO• Salient, an SF-based loan servicing platform, raised $60m in Series A funding, per Axios Pro. A16z led, joined by Matrix Partners, Michael Ovitz, and YC. axios.link/4596H9w• Positron AI, a Reno, Nev.-based developer of a transformer inference appliance, raised $51.6m in Series A funding. Valor Equity Partners, Atreides Management, and DFJ Growth led, joined by Flume Ventures, Resilience Reserve, 1517 Fund, and Unless. positron.ai• BlinkOps, a developer of cybersecurity "micro-agents," raised $50m in Series B funding. O.G. Venture Partners led, joined by Lightspeed, Hetz Ventures, and Vertex Growth. blinkops.com• Root Evidence, a Boise, Idaho-based cybersecurity startup, raised $12.5m in seed funding. Ballistic Ventures led, joined by Grossman Ventures. rootevidence.com🚑 Scopio Labs, an Israeli hematology diagnostics startup, raised $10m in Series D extension funding from Viola Growth. axios.link/40BY7ic🚀 Spaceflux, a London-based developer of space situational awareness tech, raised £5.4m in seed funding from UKI2S, Foresight Group, and Blackfinch Ventures. axios.link/4f88xfo• DynaRisk, a London-based cyber risk management startup, raised $4.7m led by YFM Equity Partners. axios.link/4lHyDIG• Spear AI, a Washington, D.C.-based developer of maritime AI solutions, raised $2.3m in seed funding from Scare the Bear Capital and Cortical Ventures. spear.ai
+
+A MESSAGE FROM GOLDMAN SACHS INVESTMENT BANKING
+
+Goldman Sachs Global M&A 2H 2025 Outlook 
+
+Global M&A volumes rose 29% YoY in the first half of 2025 despite persistent macro headwinds.What’s in store: As corporates and sponsors continue to work through and out of disruption, key drivers will help propel dealmaking through year-end.Learn more in Goldman Sachs’ latest report.
+
+ Private Equity Deals 
+
+• Brightstar Captial Partners agreed to buy a 50% stake in British for-profit school operator Arden University for more than $1b. axios.link/3H6KrFd• Brookfield Asset Management and Birch Hill Equity Partners agreed to buy Canadian mortgage provider First National Financial for C$2.9b, per C$48 per share (13% premium to Friday's closing price). axios.link/4md6LvI• Cinven is in exclusive talks to buy French data and AI consultancy Artefact from Ardian for more than €1b. axios.link/474hFjc• EQT agreed to acquire Neogov, an El Segundo, Calif.-based provider of public sector HR management and policy management software, from Warburg Pincus and Carlyle for more than $3b (including debt), per Reuters. axios.link/4oaLEMA🚀 Firefly Aerospace, a commercial space flight business backed by AE Industrial Partners, set IPO terms to 16.2m shares at $35-$39. It would have a $5.8b market value, were it to price in the middle, and plans to list on the Nasdaq (FLY). http://axios.link/475D0c3🎵 HarbourViewEquity Partners acquired a stake in Kelly Clarkson's music catalog. axios.link/418rvwz
+
+In other music deal news, Round Hill acquired the catalogs of both Modern English and Vini Poncia.
+• Gridiron Capital acquired Greenix, an Orem, Utah-based pest control company, from Riata Capital Group. greenixpc.com• GTCR is in talks to buy Blackhawk Network, a prepaid gift card provider being sold by Silver Lake and P2 Capital Partners for between $4b-$5b, per Bloomberg. axios.link/4ogIFCr• KKR is in talks to buy Singapore-based data center operator STT GDC for more than $5b, per Bloomberg. axios.link/3GJPZWl
+
+KKR and Japan Investment Partners also launched their previously announced tender offer for Japanese medical gear maker Topcon (Tokyo: 7732).
+• Montagu agreed to acquire IAI Group, a Polish provider of digital retail solutions, from MCI Capital ASI. axios.link/3GLDU2R🚑 Permira and Nordic Capital agreed to acquire Bavarian Nordic (CSE: BAVA) for nearly $3b, although the deal faces opposition from the Danish vaccine maker's top shareholder. axios.link/40BycHA• Roofed Right America, a portfolio company of Great Range Capital, acquired B&M Roofing of Colorado. axios.link/41eqCTl• Warburg Pincus and Berkshire Partners completed their $3b take-private buyout of Triumph Group, a Radnor, Pa.-based maker of aftermarket parts for aerospace and defense systems. BFD flashback
+
+ Public Offerings 
+
+Three companies plan to price IPOs on U.S. exchanges this week: Figma, Shoulder Innovations, and Ambiq Micro.🚀 Firefly Aerospace, a commercial space flight business backed by AE Industrial Partners, set IPO terms to 16.2m shares at $35-$39. It would have a $5.8b market value, were it to price in the middle, and plans to list on the Nasdaq (FLY). axios.link/475D0c3• Lenskart, an Indian omnichannel eyewear retailer, is preparing to file for an IPO this week, per Bloomberg. Backers include SoftBank, Temasek, and Fidelity. axios.link/45cEcba• SmartNews, a Japanese news aggregation app valued at $2b in 2021, hired bankers for a Tokyo IPO, per Bloomberg. Backers include Globis Capital Partners, SMBC Venture Capital, ACA Investments, Princeville Capital, and Atomico. axios.link/451mpU5
+
+ Liquidity Events 
+
+• NiCE (Nasdaq: NICE) agreed to acquire Cognigy, a German conversational AI developer, for $955m. Cognigy had raised over $170m from firms like Eurazeo, DTCP Growth, DN Capital, and Insight Partners. axios.link/3U4e6BY
+
+ More M&A 
+
+• Authentic Brands Group (NYSE: AUTH) and WHP Global are among those circling fashion label Marc Jacobs, which is being sold by LVMH, per Reuters. axios.link/4lKGpkV⚡ The European Commission launched an investigation into ADNOC's proposed €15.9b acquisition of listed German chemicals company Covestro. axios.link/44P1mp1• HSBC (LSE: HSBA) agreed to sell its Uruguay operations to Banco BTG Pactual for $175m. axios.link/45pdgGk• iA Financial (TSX: IAG) agreed to acquire Canadian wealth manager RF Capital (TSX: TCG) for C$597m, or C$20 per share. axios.link/4o3XQyx• Intel (Nasdaq: INTC) plans to spin off its Network and Edge group, which it previously had been seeking to sell. Intel will be anchor investor, and is seeking outside backers. axios.link/470tIxS• Marex Group (Nasdaq: MRX) agreed to buy execution services and securities firm Winterflood Securities from Close Brothers (LSE: CBG) for £104m. axios.link/3H4H4i8• MediaForEurope increased its takeover bid for listed German media group ProsiebenSat.1 Media to around $2.4b, besting a rival offer from Czech investor PPF. axios.link/44TVNpu• Pilot Travel Centers, owned by Berkshire Hathaway, is weighing a sale of its water management services business, per Bloomberg. axios.link/4l3BTx5🚂 Union Pacific Railroad (NYSE: UNP) said it's in "advanced discussions" to merge with Norfolk Southern Railway (NYSE: NSC). axios.link/4o8JVr9
+
+ Fundraising 
+
+• Anansi Capital was launched by Vinay Iyenger (ex-Foundation Capital) to fund AI-enabled rollups. axios.link/4kXvenO• BlackWood Ventures of Denmark raised $25m for its debut fund. axios.link/4o3XyaV• Santa Barbara Venture Partners raised $25m for its second fund. santabarbaravp.com
+
+ It's Personnel 
+
+• Carlyle named John Redett, Mark Jenkins, and Jeff Nedelman as co-presidents. axios.link/4fdZObG• Askia promoted Melissa Grant to co-head of real assets. axios.link/455TzlD• Christopher Dorsett joined Lloyds Bank as head of North America leveraged finance. Prior roles were at Macquarie, Natixis, and Deutsche Bank. axios.link/3UDnDjv• Venu Krishnamurthy joined HarbourVest Partners as a managing director and head of global private wealth. He previously was with BlackRock. axios.link/4lXuuR1• Min Zhang joined registered investment adviser Golden State as head of alternatives. She previously was with Farther. axios.link/471XYIN
+
+ Final Numbers: CaaStle "financials" 
+
+ Source: SEC complaint
+
+A MESSAGE FROM GOLDMAN SACHS INVESTMENT BANKING
+
+Corporate focus on growth bolsters large-scale strategic dealmaking
+
+The number of $10B+ M&A deals hit a record high in 1H, as companies shift focus from cost-cutting to long-term growth.Looking ahead: 40% of clients in our Investment Banking survey (June 2025, n=730) expect strategic growth to be a primary driver of 2H M&A.Read our latest report.
+
+📫 Thanks for reading Axios Pro Rata, and to copy editor Bryan McBournie! Please invite your friends, colleagues, and port operators to sign up.
+
+ Dive deeper into VC, PE and M&A
+
+ Axios Pro Deals helps you get smarter and faster on the deals, opportunities, and investments that matter most. Start your free trial.
+
+ Axios thanks our partners for supporting our newsletters. 
+ Sponsorship has no influence on editorial content. Advertise with us. Axios, PO Box 101060, Arlington VA 22201 
+
+ You received this email because you signed up for newsletters from Axios.
+ To stop receiving this newsletter, unsubscribe or manage your email preferences. 
+
+ Was this email forwarded to you?Sign up now to get Axios in your inbox. 
+
+Follow Axios on social media:
