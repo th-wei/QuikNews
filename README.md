@@ -4,7 +4,7 @@
 
 This project transforms daily tech and business newsletters—such as Axios—into concise, ~5-minute audio digests. The goal is to provide an easy, hands-free way to stay informed during busy mornings, serving as a lightweight alternative to broader news sources like NPR.
 
-Whether you're getting ready for the day, commuting, or taking care of morning routines (like taking care of a dag), reading articles on your phone or computer isn’t always practical. This audio format offers a convenient way to keep up with work and industry-relevant news while staying productive.
+Whether you're getting ready for the day, commuting, or taking care of morning routines, reading articles on your phone or computer isn’t always practical. This audio format offers a convenient way to keep up with work and industry-relevant news while staying productive.
 
 Is this a helpful tool to prepare for your day and stay ahead in your field? Let me know!
 
