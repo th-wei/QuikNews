@@ -10,11 +10,13 @@ Is this a helpful tool to prepare for your day and stay ahead in your field? Let
 
 ## ✅ MVP Deliverables
 
-Transcript: A text transcript of the podcast content, generated and formatted via code above.
+#### Transcript: A text transcript of the podcast content, generated and formatted via code above.
 
-MP3 Audio File: A complete podcast episode rendered as an .mp3 file using generated or synthesized speech.
+#### MP3 Audio File: A complete podcast episode rendered as an .mp3 file using generated or synthesized speech.
+https://github.com/user-attachments/assets/5834ecf2-de24-49b6-9be2-175fb4692069
 
-Source: Axios AM Newsletter from July 28th, 2025
+
+#### Source: Axios AM Newsletter from July 28th, 2025
 
 ## 📌 Notes from the Development Thread
 
