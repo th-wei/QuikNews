@@ -16,7 +16,7 @@ Is this a helpful tool to prepare for your day and stay ahead in your field? Let
 
 https://github.com/user-attachments/assets/5834ecf2-de24-49b6-9be2-175fb4692069
 
-#### [Source](https://www.axios.com/newsletters/axios-am): Axios AM Newsletter from July 28th, 2025
+#### Source: [Axios AM Newsletter from July 28th, 2025](https://www.axios.com/newsletters/axios-am)
 
 ## 📌 Notes from the Development Thread
 
